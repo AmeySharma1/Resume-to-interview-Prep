@@ -1,5 +1,7 @@
 import axios from "axios"
 
+// Set global default for credentials (REQUIRED for cross-site cookies)
+axios.defaults.withCredentials = true
 
 const api = axios.create({
     baseURL: "https://resume-to-interview-backend.onrender.com",
