@@ -2,7 +2,7 @@ const { GoogleGenAI } = require('@google/genai');
 
 async function checkApiKeyStatus() {
     try {
-        const ai = new GoogleGenAI({ apiKey: 'AIzaSyDWvAM95-TYqgLg9tpI1_hQr7GemzihaOc' });
+        const ai = new GoogleGenAI({ apiKey:  });
         const response = await ai.models.generateContent({
             model: 'gemini-2.0-flash',
             contents: 'Say hello!',
