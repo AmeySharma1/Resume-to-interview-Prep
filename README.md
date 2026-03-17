@@ -1,7 +1,7 @@
 Website is hosted on: https://resume-to-interview.onrender.com
-# 🚀 Interview AI & Resume Builder
+# 🚀 Resume to Interview Prepration
 
-Welcome to **Interview AI & Resume Builder**, an intelligent web application designed to help job seekers land their dream roles! By leveraging cutting-edge Generative AI, this platform provides personalized interview coaching, generated technical and behavioral questions, skill gap analysis, and tailored ATS-friendly resumes.
+Welcome to **Resume to Interview Prepration website**, an intelligent web application designed to help job seekers land their dream roles! By leveraging cutting-edge Generative AI, this platform provides personalized interview coaching, generated technical and behavioral questions, skill gap analysis, and tailored ATS-friendly resumes.
 
 ---
 
@@ -13,12 +13,6 @@ Submit your resume, self-description, and target job description to receive a co
 - **Technical & Behavioral Questions**: Specifically tailored questions predicting what interviewers will ask, including their intentions and the best ways to answer them.
 - **Skill Gap Analysis**: Identifies lacking skills with severity levels so you know exactly what to improve.
 - **Custom Preparation Plan**: A structured, day-by-day study and task plan to prepare for the role effectively.
-
-### 📄 AI Resume Generator
-Struggling to format your resume? Our AI does it for you!
-- Generates a **job-optimized, ATS-friendly resume** based on your skills and the required job description.
-- Automatically converts the highly-professional HTML resume into a downloadable **PDF**.
-- Ensures content reads like a real human-written resume to maximize callback rates.
 
 ### 🔐 Secure User Authentication
 - Robust user sign-up and login utilizing **JSON Web Tokens (JWT)** and **bcrypt**.
