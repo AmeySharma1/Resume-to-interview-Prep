@@ -1,7 +1,7 @@
 Website is hosted on: https://resume-to-interview.onrender.com
-# 🚀 Resume to Interview Prepration
+# 🚀 Resume to Interview Preparation
 
-Welcome to **Resume to Interview Prepration website**, an intelligent web application designed to help job seekers land their dream roles! By leveraging cutting-edge Generative AI, this platform provides personalized interview coaching, generated technical and behavioral questions, skill gap analysis, and tailored ATS-friendly resumes.
+Welcome to **Resume to Interview Preparation website**, an intelligent web application designed to help job seekers land their dream roles! By leveraging cutting-edge Generative AI, this platform provides personalized interview coaching, generated technical and behavioral questions, skill gap analysis, and tailored ATS-friendly resumes.
 
 ---
 
